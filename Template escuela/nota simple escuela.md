@@ -8,15 +8,6 @@ tags:
   - nota-simple
   - escuela
 ---
-
-# Título de la Nota
-
-## Metadatos de la Clase
-- Materia: 
-- Profesor: 
-- Tema de la clase: 
-- Fecha de la clase: 
-
 ## Idea Principal
 
 

@@ -8,15 +8,6 @@ tags:
   - nota-simple
   - libro
 ---
-
-# Título de la Nota
-
-## Metadatos del Libro
-- Autor: 
-- Título del libro: 
-- Capítulo: 
-- Página: 
-
 ## Idea Principal
 
 

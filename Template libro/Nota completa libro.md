@@ -15,7 +15,8 @@ tags:
 - Autor: 
 - Título del libro: 
 - Año: 
-- ISBN: 
+- Capitulo:
+- Pagina:
 
 ## Resumen
 

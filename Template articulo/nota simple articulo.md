@@ -8,15 +8,6 @@ tags:
   - nota-simple
   - articulo
 ---
-
-# Título de la Nota
-
-## Metadatos del Artículo
-- Autor: 
-- Nombre del artículo: 
-- Sección: 
-- URL: 
-
 ## Idea Principal
 
 

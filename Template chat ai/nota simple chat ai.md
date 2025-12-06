@@ -8,14 +8,6 @@ tags:
   - nota-simple
   - chat-ai
 ---
-
-# Título de la Nota
-
-## Metadatos del Chat
-- Plataforma: 
-- Fecha del chat: 
-- Tema consultado: 
-
 ## Idea Principal
 
 

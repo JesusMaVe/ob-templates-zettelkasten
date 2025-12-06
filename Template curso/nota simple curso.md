@@ -8,16 +8,6 @@ tags:
   - nota-simple
   - curso
 ---
-
-# Título de la Nota
-
-## Metadatos del Curso
-- Autor/Instructor: 
-- Nombre del curso: 
-- Capítulo/Módulo: 
-- Video número: 
-- URL: 
-
 ## Idea Principal
 
 
